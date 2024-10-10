@@ -1,6 +1,6 @@
 # Code Works Company
 
-Welcome to **Code Works Company**! We are a nonprofit app development organization founded by high school students at Concordia International School Hanoi. Our mission is to harness the power of technology to solve real-world problems, provide innovative solutions for local communities, and empower youth with coding and entrepreneurial skills.
+Welcome to **Code Works Company**! We are an app development organization founded by high school students at Concordia International School Hanoi. Our mission is to harness the power of technology to solve real-world problems, provide innovative solutions for local communities, and empower youth with coding and entrepreneurial skills.
 
 ## 🌟 Our Mission
 
